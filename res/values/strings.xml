@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mixologist\'s Friend</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_add_recipe">Add Recipe</string>
+</resources>

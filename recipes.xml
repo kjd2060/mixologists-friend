@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+    <recipe name="Hemingway Daiquiri">
+        <ingredient name="Ice" amount="Fill shaker" description=""/>
+        <ingredient name="Fresh lime juice" amount="3/4 oz" description=""/>
+        <ingredient name="Fresh grapefruit juice" amount="1/2 oz" description=""/>
+        <ingredient name="Maraschino liqueur" amount="1/2 oz" description=""/>
+        <ingredient name="Lime wheel" amount="1" description="For garnish, optional"/>
+        <steps>
+            <step details="Fill a cocktail shaker with ice."/>
+            <step details="Add all of the remaining ingredients except the lime wheel and shake well."/>
+            <step details="Strain into a chilled coupe and garnish with the lime wheel."/>
+        </steps>
+    </recipe>
+    <recipe name="Rum Punch">
+        <serves amount="80"/>
+        <ingredient name="Mint leaves" amount="80" description="torn or thinly sliced" />
+        <ingredient name="light rum" amount="8 oz" description=""/>
+        <ingredient name="aged rum" amount="8 oz" description=""/>
+        <ingredient name="fresh orange juice" amount="8 oz" description=""/>
+        <ingredient name="pineapple juice" amount="4 oz" description=""/>
+        <ingredient name="Ice" amount="To preference" description=""/>
+        <ingredient name="pineapple wedges" amount="8" description=""/>
+        <steps>
+            <step details="In a pitcher, combine all of the ingredients except the ice and pineapple wedges and refrigerate until chilled, about 2 hours."/>
+            <step details="Stir well and serve over ice in red wine glasses."/>
+            <step details="Garnish each drink with a pineapple wedge."/>
+        </steps>
+    </recipe>
+    <recipe name="Moscow Mule">
+        <ingredient name="Ginger beer" amount="4 cups" description="Chilled" />
+        <ingredient name="Lime Juice" amount="2/3 cup" description=""/>
+        <ingredient name="Vodka" amount="1-1/4 cups" description=""/>
+        <ingredient name="Ice cubes" amount = "" description=""/>
+        <ingredient name="Lime slices" amount = "" description="Optional"/>
+        <steps>
+            <step details="Combine ginger beer, lime juice, and vodka in a pitcher"/>
+            <step details="Serve over ice. If desired, serve with some lime slices"/>
+        </steps>
+    </recipe>
+    <recipe name="Bloody Mary">
+        <ingredient name="Celery salt, divided" amount="1/4 teaspoon plus 1/8 teaspoon" description=""/>
+        <ingredient name="Ice cubes, divided" amount="1-1/2 to 2 cups" description=""/>
+        <ingredient name="Vodka" amount="2 oz" description=""/>
+        <ingredient name="Tomato juice" amount="1 cup" description="chilled"/>
+        <ingredient name="Lemon juice" amount="1 tablespoon" description=""/>
+        <ingredient name="Worcestershire sauce" amount="3/4 teaspoon" description=""/>
+        <ingredient name="Prepared horseradish" amount="1/2 teaspoon" description="Optional"/>
+        <ingredient name="Pepper" amount="1/8 teaspoon" description=""/>
+        <ingredient name="Hot pepper sauce" amount="1/8 teaspoon" description=""/>
+        <steps>
+            <step details="Using water, moisten rim of a highball glass. Sprinkle 1/4 teaspoon celery salt on a small plate; dip rim into salt."/>
+            <step details="Discard remaining celery salt mixture from plate. Fill a shaker three-fourths full with ice. Place remaining ice in prepared glass."/>
+            <step details="Add vodka, juices, Worcestershire sauce, horseradish if desired, pepper, remaining celery salt and pepper sauce to shaker; cover and shake until condensation forms on exterior, 10-15 seconds."/>
+            <step details="Strain into prepared glass. Garnish as desired."/>
+        </steps>
+    </recipe>
+    <recipe name="Brandy old fashioned sweet">
+        <ingredient name="Orange slice" amount="1" description="" />
+        <ingredient name="Maraschino cherry" amount="1" description=""/>
+        <ingredient name="Bitters" amount="1 teaspoon" description=""/>
+        <ingredient name="Ice cubes" amount = "1/4 to 1/3 cup" description=""/>
+        <ingredient name="Brandy" amount = "1-1/2 oz" description=""/>
+        <ingredient name="Water" amount = "2 teaspoons" description=""/>
+        <ingredient name="Orange juice" amount = "1 teaspoon" description=""/>
+        <ingredient name="Lemon-lime soda" amount = "3 oz" description=""/>
+        <steps>
+            <step details="In a rocks glass, muddle orange slice, cherry, cherry juice and bitters. Add ice. Pour in the brandy, water, orange juice and soda."/>
+        </steps>
+    </recipe>
+    <recipe name="Martini">
+        <ingredient name="Ice cubes" amount="" description="" />
+        <ingredient name="Gin or vodka" amount="3 oz" description=""/>
+        <ingredient name="Dry vermouth" amount="1/2 oz" description=""/>
+        <ingredient name="Pimiento-stuffed olives" amount = "" description="Garnish"/>
+        <steps>
+            <step details="Fill a shaker three-fourths full with ice. Add gin and vermouth; cover and shake until condensation forms on outside of shaker."/>
+            <step details="Strain into a chilled cocktail glass. Garnish with olives."/>
+            <step details="Note: This recipe makes a dry martini. Use less vermouth for an extra-dry martini; use more for a 'wet' martini. You may also serve the martini over ice in a rocks glass."/>
+        </steps>
+    </recipe>
+</recipes>
